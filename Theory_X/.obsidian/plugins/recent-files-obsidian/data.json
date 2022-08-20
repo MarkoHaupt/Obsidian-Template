@@ -1,0 +1,18 @@
+{
+  "recentFiles": [
+    {
+      "basename": "DailyNotestemplate",
+      "path": "templates/DailyNotestemplate.md"
+    },
+    {
+      "basename": "WeeklyNotesTemplate",
+      "path": "templates/WeeklyNotesTemplate.md"
+    },
+    {
+      "basename": "Notes",
+      "path": "Notes/Notes.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}
