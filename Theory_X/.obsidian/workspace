@@ -7,12 +7,8 @@
         "id": "4dac4eea5348f640",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1. Kurse/BWL/EinThema.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Kurse/BWL/EinThema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Kurse/BWL/EinThema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. Kurse/BWL/EinThema.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,17 +144,17 @@
     "direction": "horizontal",
     "width": 282.5
   },
-  "active": "97d515cd20356e34",
+  "active": "4dac4eea5348f640",
   "lastOpenFiles": [
+    "3. Organisation/Plan.md",
+    "3. Organisation/Organisation.md",
     "1. Kurse/BWL/EinThema.md",
+    "1. Kurse/Kurse.md",
+    "1. Kurse/BWL/BWL.md",
     "2. Notes/Daily/2022-08-25.md",
     "templates/DailyNotestemplate.md",
     "2. Notes/Daily/2022-08-26.md",
     "2. Notes/Weekly/2022-W34.md",
-    "2. Notes/Notes.md",
-    "3. Organisation/Organisatorisches.md",
-    "templates/WeeklyNotesTemplate.md",
-    "Notes/Notes.md",
-    "Notes/Daily/2022-08-04.md"
+    "2. Notes/Notes.md"
   ]
 }

@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Plan",
+      "path": "3. Organisation/Plan.md"
+    },
+    {
+      "basename": "Organisation",
+      "path": "3. Organisation/Organisation.md"
+    },
+    {
       "basename": "EinThema",
       "path": "1. Kurse/BWL/EinThema.md"
+    },
+    {
+      "basename": "Kurse",
+      "path": "1. Kurse/Kurse.md"
+    },
+    {
+      "basename": "BWL",
+      "path": "1. Kurse/BWL/BWL.md"
     },
     {
       "basename": "2022-08-25",
@@ -23,10 +39,6 @@
     {
       "basename": "Notes",
       "path": "2. Notes/Notes.md"
-    },
-    {
-      "basename": "Organisatorisches",
-      "path": "3. Organisation/Organisatorisches.md"
     },
     {
       "basename": "WeeklyNotesTemplate",
