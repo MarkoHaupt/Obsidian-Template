@@ -1,2 +1,5 @@
 # Obsidian_Template
-Obsidian Template for Theory Semester
+
+Obsidian Template for UNI
+- Usefull community plugins
+- Usefull note templates
