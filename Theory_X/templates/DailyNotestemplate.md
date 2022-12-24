@@ -1,9 +1,6 @@
-# [[Notes]]
 
-# {{date}}: 
-What?: 
-
-
+>[!NOTE] Notes
 
 ---
-Week: [[{{date:YYYY}}-W{{date:ww}}]]
+
+Daily [[Notes]] in Week [[{{date:YYYY}}-W{{date:ww}}]]

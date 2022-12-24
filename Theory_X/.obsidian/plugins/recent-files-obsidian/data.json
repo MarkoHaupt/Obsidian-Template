@@ -1,50 +1,35 @@
 {
   "recentFiles": [
     {
-      "basename": "Plan",
-      "path": "3. Organisation/Plan.md"
-    },
-    {
-      "basename": "Organisation",
-      "path": "3. Organisation/Organisation.md"
-    },
-    {
-      "basename": "EinThema",
-      "path": "1. Kurse/BWL/EinThema.md"
-    },
-    {
-      "basename": "Kurse",
-      "path": "1. Kurse/Kurse.md"
-    },
-    {
-      "basename": "BWL",
-      "path": "1. Kurse/BWL/BWL.md"
-    },
-    {
-      "basename": "2022-08-25",
-      "path": "2. Notes/Daily/2022-08-25.md"
-    },
-    {
       "basename": "DailyNotestemplate",
       "path": "templates/DailyNotestemplate.md"
     },
     {
-      "basename": "2022-08-26",
-      "path": "2. Notes/Daily/2022-08-26.md"
+      "basename": "WeeklyNotesTemplate",
+      "path": "templates/WeeklyNotesTemplate.md"
     },
     {
-      "basename": "2022-W34",
-      "path": "2. Notes/Weekly/2022-W34.md"
+      "basename": "2022-W51",
+      "path": "2. Notes/Weekly/2022-W51.md"
+    },
+    {
+      "basename": "2022-12-24",
+      "path": "2. Notes/Daily/2022-12-24.md"
+    },
+    {
+      "basename": "Kursübersicht",
+      "path": "1. Kurse/Kursübersicht.md"
     },
     {
       "basename": "Notes",
       "path": "2. Notes/Notes.md"
     },
     {
-      "basename": "WeeklyNotesTemplate",
-      "path": "templates/WeeklyNotesTemplate.md"
+      "basename": "SE II Arch",
+      "path": "1. Kurse/SE II Arch/SE II Arch.md"
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }

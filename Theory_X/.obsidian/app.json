@@ -1,4 +1,8 @@
 {
   "spellcheck": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheckLanguages": [
+    "de",
+    "en-US"
+  ]
 }
